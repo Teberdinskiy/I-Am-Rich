@@ -1,4 +1,4 @@
-# I-Am-Rich
+# I Am Rich / I Am Poor
 iOS 13 and Swift 5. Udemy. The first application - “I am rich / I am poor”
 
 
